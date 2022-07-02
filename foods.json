@@ -1,0 +1,202 @@
+[
+    {
+        "name_of_food": "Apples",
+        "description_of_food": "Apples are high in fiber, vitamin C, and numerous antioxidants. They are very filling and make the perfect snack if you find yourself hungry between meals."
+    },
+    {
+        "name_of_food": "Avocados",
+        "description_of_food": "Avocados are different from most other fruits because they’re loaded with healthy fats instead of carbs. They are not only creamy and tasty but also high in fiber, potassium, and vitamin C."
+    },
+    {
+        "name_of_food": "Bananas",
+        "description_of_food": "Bananas are among the world’s best sources of potassium. They’re also high in vitamin B6 and fiber and are convenient and portable."
+    },
+    {
+        "name_of_food": "Blueberries",
+        "description_of_food": "Blueberries are not only delicious but also among the most powerful sources of antioxidants in the world."
+    },
+    {
+        "name_of_food": "Oranges",
+        "description_of_food": "Oranges are well known for their vitamin C content. What’s more, they’re high in fiber and antioxidants."
+    },
+    {
+        "name_of_food": "Strawberries",
+        "description_of_food": "Strawberries are highly nutritious and low in both carbs and calories."
+    },
+    {
+        "name_of_food": "Eggs",
+        "description_of_food": "Eggs are among the most nutritious foods on the planet."
+    },
+    {
+        "name_of_food": "Lean beef",
+        "description_of_food": "Lean beef is among the best sources of protein when consumed in moderation and is loaded with highly bioavailable iron."
+    },
+    {
+        "name_of_food": "Chicken breasts",
+        "description_of_food": "Chicken breast is low in fat and calories but extremely high in protein. It’s a great source of many nutrients. Again, feel free to eat fattier cuts of chicken if you’re not eating many carbs."
+    },
+    {
+        "name_of_food": "Lamb",
+        "description_of_food": "Lambs are usually grass-fed, and their meat tends to be high in omega-3 fatty acids."
+    },
+    {
+        "name_of_food": "Almonds",
+        "description_of_food": "Almonds are a popular nut loaded with vitamin E, antioxidants, magnesium, and fiber. Studies show that almonds can contribute to weight loss and improve metabolic health."
+    },
+    {
+        "name_of_food": "Chia seeds",
+        "description_of_food": "Chia seeds are among the most nutrient-dense foods on the planet. A single ounce (28 grams) packs 11 grams of fiber and significant amounts of magnesium, manganese, calcium, and various other nutrients."
+    },
+    {
+        "name_of_food": "Coconuts",
+        "description_of_food": "Coconuts are loaded with fiber and powerful fatty acids called medium-chain triglycerides (MCTs)."
+    },
+    {
+        "name_of_food": "Macadamia nuts",
+        "description_of_food": "Macadamia nuts are very tasty. They’re much higher in monounsaturated fats and lower in omega-6 fatty acids than most other nuts."
+    },
+    {
+        "name_of_food": "Walnuts",
+        "description_of_food": "Walnuts are highly nutritious and loaded with fiber and various vitamins and minerals."
+    },
+    {
+        "name_of_food": "Brazil nuts",
+        "description_of_food": "Brazil nuts have a smooth, buttery texture; are loaded with nutrients; are beneficial for thyroid function; and are one of the best sources of the important mineral selenium."
+    },
+    {
+        "name_of_food": "Asparagus",
+        "description_of_food": "Asparagus is a popular vegetable that is low in both carbs and calories but loaded with vitamin K."
+    },
+    {
+        "name_of_food": "Bell peppers",
+        "description_of_food": "Bell peppers come in several colors, including red, yellow, and green. They’re crunchy and sweet and are a great source of antioxidants and vitamin C."
+    },
+    {
+        "name_of_food": "Broccoli",
+        "description_of_food": "Broccoli is a cruciferous vegetable that tastes great both raw and cooked. It’s an excellent source of fiber and vitamins C and K and contains a decent amount of protein compared with other vegetables."
+    },
+    {
+        "name_of_food": "Carrots",
+        "description_of_food": "Carrots are a popular root vegetable. They’re extremely crunchy and loaded with nutrients such as fiber and vitamin K. "
+    },
+    {
+        "name_of_food": "Cauliflower",
+        "description_of_food": "Cauliflower is a very versatile cruciferous vegetable. It can be used to make a multitude of healthy dishes and also tastes good on its own."
+    },
+    {
+        "name_of_food": "Cucumber",
+        "description_of_food": "Cucumbers are one of the world’s most popular vegetables. They’re very low in both carbs and calories, consisting mostly of water. However, they contain a number of nutrients in small amounts, including vitamin K."
+    },
+    {
+        "name_of_food": "Garlic",
+        "description_of_food": "Garlic is incredibly healthy. It contains bioactive organosulfur compounds that have powerful biological effects, including improved immune function."
+    },
+    {
+        "name_of_food": "Kale",
+        "description_of_food": "Kale has become increasingly popular because it’s incredibly high in fiber, vitamins C and K, and a number of other nutrients. It adds a satisfying crunch to salads and other dishes."
+    },
+    {
+        "name_of_food": "Onions",
+        "description_of_food": "Onions have a very strong flavor and are very popular in many recipes. They contain a number of bioactive compounds believed to have health benefits."
+    },
+    {
+        "name_of_food": "Tomatoes",
+        "description_of_food": "Tomatoes are usually categorized as a vegetable, although they are technically a fruit. They are tasty and loaded with nutrients such as potassium and vitamin C."
+    },
+    {
+        "name_of_food": "Salmon",
+        "description_of_food": "Salmon is a type of oily fish that’s incredibly popular because of its excellent taste and high nutrient content, including protein and omega-3 fatty acids. It also contains some vitamin D."
+    },
+    {
+        "name_of_food": "Sardines",
+        "description_of_food": "Sardines are small, oily fish that are among the most nutritious foods you can eat. They boast sizable amounts of most nutrients that your body needs, including calcium and vitamin D."
+    },
+    {
+        "name_of_food": "Shellfish",
+        "description_of_food": "Shellfish ranks similarly to organ meats when it comes to nutrient density. Edible shellfish include clams, mollusks, and oysters."
+    },
+    {
+        "name_of_food": "Shrimp",
+        "description_of_food": "Shrimp is a type of crustacean related to crabs and lobsters. It tends to be low in fat and calories but high in protein. It’s also loaded with various other nutrients, including selenium and vitamin B12."
+    },
+    {
+        "name_of_food": "Trout",
+        "description_of_food": "Trout is another type of delicious freshwater fish, similar to salmon."
+    },
+    {
+        "name_of_food": "Tuna",
+        "description_of_food": "Tuna is very popular in Western countries and tends to be low in fat and calories and high in protein. It’s perfect for people who need to add more protein to their diets but keep calories low."
+    },
+    {
+        "name_of_food": "Brown rice",
+        "description_of_food": "Rice is one of the most popular cereal grains and is currently a staple food for more than half the world’s population. Brown rice is fairly nutritious, with decent amounts of fiber, vitamin B1, and magnesium."
+    },
+    {
+        "name_of_food": "Oats",
+        "description_of_food": "Oats are incredibly healthy. They’re loaded with nutrients and powerful fibers called beta glucans, which provide numerous benefits, including helping to lower cholesterol and feed beneficial bacteria in the gut."
+    },
+    {
+        "name_of_food": "Quinoa",
+        "description_of_food": "Quinoa has become incredibly popular among health-conscious people in recent years. It’s a tasty grain that’s high in nutrients such as fiber and magnesium. It is also an excellent source of plant-based protein."
+    },
+    {
+        "name_of_food": "Ezekiel bread",
+        "description_of_food": "Ezekiel bread may be the healthiest bread you can buy. It’s made from organic sprouted whole grains, as well as several legumes."
+    },
+    {
+        "name_of_food": "Homemade low carb breads",
+        "description_of_food": "Overall, the best choice for bread may one you can make yourself. Here’s a list of 15 recipes for gluten-free, low carb breads."
+    },
+    {
+        "name_of_food": "Green beans",
+        "description_of_food": "Green beans, also called string beans, are an unripe variety of the common bean. They are very popular in Western countries."
+    },
+    {
+        "name_of_food": "Kidney beans",
+        "description_of_food": "Kidney beans are loaded with fiber and various vitamins and minerals. Make sure to cook them properly, because they’re toxic when raw."
+    },
+    {
+        "name_of_food": "Lentils",
+        "description_of_food": "Lentils are another popular legume. They’re high in fiber and are among the best sources of plant-based protein. "
+    },
+    {
+        "name_of_food": "Peanuts",
+        "description_of_food": "Peanuts (which are legumes, not true nuts) are incredibly tasty and high in nutrients and antioxidants. Several studies suggest that peanuts can aid in weight loss."
+    },
+    {
+        "name_of_food": "Cheese",
+        "description_of_food": "Cheese is incredibly nutritious — a single slice may offer about the same amount of nutrients as an entire cup (240 ml) of milk. Many people also consider it one of the most delicious foods."
+    },
+    {
+        "name_of_food": "Whole milk",
+        "description_of_food": "Whole milk is very high in vitamins, minerals, quality animal protein, and healthy fats. What’s more, it’s one of the best dietary sources of calcium."
+    },
+    {
+        "name_of_food": "Yogurt",
+        "description_of_food": "Yogurt is made from milk that is fermented through the addition of live bacteria. It has many of the same health effects as milk, but yogurt with live cultures has the added benefit of friendly probiotic bacteria."
+    },
+    {
+        "name_of_food": "Extra-virgin olive oil",
+        "description_of_food": "Extra-virgin olive oil is one of the healthiest vegetable oils. It contains heart-healthy monounsaturated fats and is very high in antioxidants that have powerful health benefits."
+    },
+    {
+        "name_of_food": "Coconut oil",
+        "description_of_food": "Coconut oil is a saturated fat, but it contains MCTs and may have similar health effects to olive oil."
+    },
+    {
+        "name_of_food": "Potatoes",
+        "description_of_food": "Potatoes are loaded with potassium and contain a little bit of almost every nutrient you need, including vitamin C."
+    },
+    {
+        "name_of_food": "Sweet potatoes",
+        "description_of_food": "Sweet potatoes are among the most delicious starchy foods you can eat. They’re loaded with antioxidants, beta carotene, vitamin A, and all sorts of other healthy nutrients."
+    },
+    {
+        "name_of_food": "Apple cider vinegar",
+        "description_of_food": "Apple cider vinegar may help regulate postmeal blood sugar levels when consumed with a meal, though more evidence is needed on its effectiveness."
+    },
+    {
+        "name_of_food": "Dark chocolate",
+        "description_of_food": "Dark chocolate is loaded with magnesium and is one of the most powerful sources of antioxidants."
+    }
+]
